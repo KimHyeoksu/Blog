@@ -1,0 +1,57 @@
+<style>
+
+  div{
+    
+  }
+  h2{
+    border-bottom: 3px solid Gainsboro;
+    padding-bottom: 10px;
+  }
+  h1 {
+    color: Navy;
+    text-align: center;
+    padding-bottom: 5px;
+  }
+  a {
+    text-decoration:none;
+  }
+  /* unvisited link */
+  a:link {
+    color: black;
+  }
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  #image{
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  .subtitle{
+    text-align: center;
+    font-size: large;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: Azure;
+  }
+  #first{
+    padding-right: 50px;
+  }
+  #second{
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  #third{
+    padding-left: 50px;
+  }
+
+
+</style>
